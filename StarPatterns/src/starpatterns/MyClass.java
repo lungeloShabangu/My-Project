@@ -35,9 +35,7 @@ public class MyClass {
               System.out.print("\n");
         } 
     }
-    public void printHallowSquareDiagononal(int row){
-        
-    }
+   
     
 //Squares End
     
